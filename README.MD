@@ -20,7 +20,7 @@ Prerequisites: You need Python 3.x installed on your system (Works perfectly on 
 Step 1: Clone the Repository
 
 Bash
-git clone https://github.com//UniversalVortex.git
+git clone https://github.com/patharankit12-star/VORTEX_AI_SCANNER.git
 cd UniversalVortex
 Step 2: Install Dependencies
 
